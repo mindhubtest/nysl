@@ -1,0 +1,62 @@
+#logo{
+  width: 60px;
+}
+
+#header{
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+body{
+  background-image: url("images/soccer-field.jpg");
+  background-position-x: 50%;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.navbar-home{
+  background-color: #35d200;
+}
+
+.page-title{
+  background-color: #033949;
+  text-align: center;
+  margin-bottom: 10px;
+  border-top: solid #a3ff15 3px;
+  border-bottom: solid #a3ff15 3px;
+}
+
+.page-title span {
+  font-size: 1.0em;
+  color: white;
+}
+
+.content{
+  border: dashed;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.content h2{
+  font-size: 1.5em;
+  margin-left: 0.5em;
+}
+
+.content h3{
+  font-size: 1.3em;
+}
+
+.content p{
+  margin-left: 1.5em;
+}
+
+.infotable{
+  font-size: 0.75em;
+}
+
+.infotable i{
+  font-size: 1.8em;
+}
+
+.chat-btn{
+  cursor: pointer;
+}
